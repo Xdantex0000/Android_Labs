@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab3</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nothing_selected_item">Nothing selected</string>
+    <string name="nothing_selected">Nothing is selected at the moment :(</string>
+</resources>
